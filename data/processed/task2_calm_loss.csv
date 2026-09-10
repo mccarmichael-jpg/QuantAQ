@@ -1,0 +1,5 @@
+monitor,wind_source,pm_minutes_with_wind,calm_minutes,calm_pct,remaining,period
+metro,metro,241071,54047,22.4,187024,2026-03-21 .. 2026-09-10
+metro,rooftop,74965,987,1.3,73978,2025-09-29 .. 2026-03-24
+lipp,metro,240537,53868,22.4,186669,2026-03-21 .. 2026-09-10
+lipp,rooftop,151922,2514,1.7,149408,2025-10-25 .. 2026-03-24
